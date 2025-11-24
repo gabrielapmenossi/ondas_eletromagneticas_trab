@@ -82,6 +82,10 @@ main img{
     padding: 10px;
 }
 
+.ondas img{
+    width: 80%;
+}
+
 footer{
     margin: 10px;
     padding: 10px;
