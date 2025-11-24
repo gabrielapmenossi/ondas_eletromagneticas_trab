@@ -68,6 +68,20 @@ main img{
     height: auto;
 }
 
+.tiposdeondas{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+}
+
+.ondas{
+    width: 10%;
+    background-color: #C77DFF;
+    border-radius: 10px;
+    padding: 10px;
+}
+
 footer{
     margin: 10px;
     padding: 10px;
